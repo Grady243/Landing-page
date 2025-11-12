@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'dm';
+  src: url('/src/fonts/dm/DMSerifDisplay-Regular.ttf') ;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'karla';
+  src: url('/src/fonts/karla/Karla-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+.font-dm {
+  font-family: karla
+}
+.font-karla {
+  font-family: dm
+}
+@import "tailwindcss";
+
+/* Tu peux ajouter tes @font-face ici si besoin */
+
+
+
