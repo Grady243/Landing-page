@@ -17,6 +17,9 @@
 .font-karla {
   font-family: dm
 }
+.foot a:hover{
+  text-decoration: underline
+}
 @import "tailwindcss";
 
 /* Tu peux ajouter tes @font-face ici si besoin */
